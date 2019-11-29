@@ -1,7 +1,2 @@
-'use strict';
+console.log("Hello World");
 
-function hello(){
-  return 'Hello World';
-}
-
-module.exports = hello;
